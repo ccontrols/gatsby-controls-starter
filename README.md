@@ -40,4 +40,4 @@ cd gatsby-controls-starter
 
 # live site
 
-[example on gh-pages](https://atanasster.github.io/gatsby-controls-starter/)
+[example on netlify](https://github.com/atanasster/gatsby-controls-starter)
