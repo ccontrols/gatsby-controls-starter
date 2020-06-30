@@ -40,4 +40,4 @@ cd gatsby-controls-starter
 
 # live site
 
-[example on netlify](https://github.com/atanasster/gatsby-controls-starter)
+[example on netlify](https://gatsby-controls-starter.netlify.app)
