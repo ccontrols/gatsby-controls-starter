@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-controls-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "start": "gatsby develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atanasster/gatsby-controls-starter.git"
+  },
+  "dependencies": {
+    "@component-controls/gatsby-theme-stories": "^1.6.0",
+    "gatsby": "^2.23.11",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
