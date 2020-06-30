@@ -1,14 +1,14 @@
-# Gatsby component-controls starter
+# gatsby component-controls starter
 
-## Project git 
+## project git 
 
 [component-controls](https://github.com/ccontrols/component-controls)
 
-## Getting started 
+## getting started 
 
 [with gatsby](https://component-controls.com/tutorial/getting%20started/gatsby/)
 
-## Clone
+## clone
 
 ```
   git clone git@github.com:atanasster/gatsby-controls-starter.git
