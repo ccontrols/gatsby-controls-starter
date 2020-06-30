@@ -37,3 +37,7 @@ cd gatsby-controls-starter
 ```
   yarn build
 ```
+
+# live site
+
+[example on gh-pages](https://atanasster.github.io/gatsby-controls-starter/)
