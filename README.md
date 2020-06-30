@@ -4,27 +4,36 @@
 
 [component-controls](https://github.com/ccontrols/component-controls)
 
-## getting started 
+## getting started docs
 
 [with gatsby](https://component-controls.com/tutorial/getting%20started/gatsby/)
 
-## clone
+
+# start project
+
+1. clone
 
 ```
   git clone git@github.com:atanasster/gatsby-controls-starter.git
 ```
 
-## install dependencies
+2. move to project folder :)
+
+```
+cd gatsby-controls-starter
+```
+
+3. install dependencies
 ```
   yarn
 ```
 
-## start
+4. start
 ```
   yarn start
 ```
 
-## build
+5. build
 ```
   yarn build
 ```
