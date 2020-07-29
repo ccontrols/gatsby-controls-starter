@@ -6,7 +6,7 @@
 
 ## getting started docs
 
-[with gatsby](https://component-controls.com/tutorial/getting%20started/gatsby/)
+[with gatsby](https://component-controls.com/tutorial/getting-started/gatsby)
 
 
 # start project
