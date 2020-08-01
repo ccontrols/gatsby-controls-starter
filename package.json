@@ -12,7 +12,7 @@
     "url": "https://github.com/atanasster/gatsby-controls-starter.git"
   },
   "dependencies": {
-    "@component-controls/gatsby-theme-stories": "^1.13.4",
+    "@component-controls/gatsby-theme-stories": "^1.14.0",
     "gatsby": "^2.23.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
