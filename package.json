@@ -8,9 +8,11 @@
     "start": "gatsby develop"
   },
   "dependencies": {
-    "@component-controls/axe-plugin": "^1.22.1",
-    "@component-controls/gatsby-theme-stories": "^1.22.1",
-    "@component-controls/viewport-plugin": "^1.22.1",
+    "@component-controls/axe-plugin": "^1.23.0",
+    "@component-controls/blocks": "^1.23.0",
+    "@component-controls/core": "^1.22.0",
+    "@component-controls/gatsby-theme-stories": "^1.23.0",
+    "@component-controls/viewport-plugin": "^1.23.0",
     "gatsby": "^2.23.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
