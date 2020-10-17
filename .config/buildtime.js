@@ -6,5 +6,6 @@ module.exports = {
     story: {
       tabs: [{ route: 'page' }, { route: 'test' }],
     },
-  }
+  },
+  siteUrl: `https://gatsby-controls-starter.netlify.app`,
 };
