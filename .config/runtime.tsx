@@ -4,7 +4,6 @@ import { TestingPage } from "./TestingPage";
 
 const config: RunConfiguration = {
   title: `awLib`,
-  siteUrl: `https://gatsby-controls-starter.netlify.app`,
   description: `Some description meta.`,
   author: 'my name',
   pages: {
