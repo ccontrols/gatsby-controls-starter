@@ -6,14 +6,6 @@ const config: RunConfiguration = {
   title: `awLib`,
   description: `Some description meta.`,
   author: 'my name',
-  pages: {
-    story: {
-      tabs: [
-        ...defaultRunConfig.pages.story.tabs,
-        { title: 'Testing', render: () => <TestingPage /> },
-      ],
-    },
-  }  
 };
 
 export default config;
