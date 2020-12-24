@@ -9,12 +9,8 @@
     "test": "cc-jest"
   },
   "dependencies": {
-    "@component-controls/axe-plugin": "^2.4.0",
-    "@component-controls/blocks": "^2.4.0",
-    "@component-controls/core": "^2.4.0",
-    "@component-controls/gatsby-theme-stories": "^2.4.0",
-    "@component-controls/jest-snapshots": "^2.4.0",
-    "@component-controls/viewport-plugin": "^2.4.0",
+    "@component-controls/gatsby-theme-stories": "^2.4.2",
+    "@component-controls/jest-snapshots": "^2.4.2",
     "gatsby": "^2.28.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
