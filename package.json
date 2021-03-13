@@ -9,8 +9,8 @@
     "test": "cc-jest"
   },
   "dependencies": {
-    "@component-controls/gatsby-theme-stories": "^3.3.0",
-    "@component-controls/jest-snapshots": "^3.3.0",
+    "@component-controls/gatsby-theme-stories": "^3.4.0",
+    "@component-controls/jest-snapshots": "^3.4.0",
     "gatsby": "^3.0.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
