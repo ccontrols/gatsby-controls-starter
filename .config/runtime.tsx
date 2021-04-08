@@ -1,6 +1,6 @@
-import { RunConfiguration } from "@component-controls/core";
+import { RuntimeConfiguration } from "@component-controls/core";
 
-const config: Partial<RunConfiguration> = {
+const config: RuntimeConfiguration = {
   title: `awLib`,
   description: `Some description meta.`,
   author: 'my name',

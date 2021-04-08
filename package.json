@@ -10,8 +10,8 @@
     "test": "yarn jest"
   },
   "dependencies": {
-    "@component-controls/cc-cli": "^3.6.2",
-    "@component-controls/gatsby-theme-stories": "^3.6.2",
+    "@component-controls/cc-cli": "^3.6.3",
+    "@component-controls/gatsby-theme-stories": "^3.6.3",
     "gatsby": "^3.0.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
