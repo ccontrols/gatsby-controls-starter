@@ -6,7 +6,7 @@
   "scripts": {
     "build": "gatsby build",
     "start": "gatsby develop",
-    "test:create": "cc-cli -g story -f ts -w",
+    "test:create": "cc-cli -g doc -f ts -w",
     "test": "yarn jest"
   },
   "dependencies": {
