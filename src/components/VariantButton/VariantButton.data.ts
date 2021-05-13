@@ -1,24 +1,29 @@
 export default {
   overview: {
-    "0": {
-      text: "Leone Kirlin",
-      icon: "Dariana Osinski"
-    },
     "1": {
-      text: "Winston Schumm",
-      icon: "Marilie Jacobson DVM"
+      text: "Cecelia Langosh",
+      variant: "success",
+      icon: "search"
     },
     "2": {
-      text: "Concepcion Mayer",
-      icon: "Lexi Trantow"
+      text: "Jolie Beahan Sr.",
+      variant: "disabled",
+      icon: "down-arrow"
     },
     "3": {
-      text: "Darion Adams",
-      icon: "Nola Marks"
+      text: "Kane Ortiz",
+      variant: "warning",
+      icon: "none"
     },
     "4": {
-      text: "Adalberto Bartell",
-      icon: "Jennyfer Corkery I"
+      text: "Ronny Spinka",
+      variant: "success",
+      icon: "right-arrow"
+    },
+    "5": {
+      text: "Jayce Schaden",
+      variant: "primary",
+      icon: "up-arrow"
     }
   }
 };
