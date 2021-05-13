@@ -12,9 +12,9 @@
   "dependencies": {
     "@component-controls/cc-cli": "^3.12.0",
     "@component-controls/gatsby-theme-stories": "^3.12.0",
-    "gatsby": "^3.0.3",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "gatsby": "^3.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.10",
